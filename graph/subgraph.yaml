@@ -8,7 +8,7 @@ dataSources:
     source:
       address: "0x9C19FDcD54a4C358C5B42b9cfc8690f49736437C"
       abi: RandomWinnerGame
-      startBlock: 29979594
+      startBlock: 29978810
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.7
