@@ -1,4 +1,4 @@
-type Game @entity {
+type Games @entity {
   id: ID!
   maxPlayers: Int!
   entryFee: BigInt!
